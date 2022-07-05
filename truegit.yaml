@@ -1,10 +1,10 @@
-title: OverReact
-description: I love React so much that I overReact.
+title: Ronaldo's Blog
+description: Devops, MLops, Linux & k8s
 # Theme must be a HEX value inside quotes
 theme: "#CF508A"
 backgroundColor: "#FAF5EF"
 # This folder is where all the files related to the blog would live
-bannerImage: /banner.webp
+bannerImage: /BANNER-SIZE-AI-and-Machine-Learning.jpeg
 logoImage: ./logo.png
 navLinks:
   - title: Docs
@@ -14,22 +14,17 @@ navLinks:
     url: https://github.com/Kollate/truegit-test
     isExternal: true
 socials:
-  linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
-  instagram: https://www.instagram.com/quantdaddy/
-  github: https://github.com/quant-daddy
+  linkedin: https://www.linkedin.com/in/ronaldosaheki/
+  github: https://github.com/ronaldosaheki
 authors:
-  quantdaddy:
-    name: Suraj Keshri
-    title: Founder, Gully
+  ronaldosaheki:
+    name: Ronaldo Saheki
+    title: Principal Engineer @OutSystems
     description: Enjoys coding and coding only
-    url: https://gully.to
+    url: https://ronaldo.saheki.com
     profileImage: "./assets/quantdaddy.jpeg"
     socials:
-      linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
-      instagram: https://www.instagram.com/quantdaddy/
-      github: https://github.com/quant-daddy
-      twitter: https://twitter.com/quantdaddy
-      url: https://google.com
-      youtube: https://www.youtube.com/channel/UC5YwzJ-Vv_akOUIe5FZ-zDA
-      email: hello@truegit.io
+      linkedin: https://www.linkedin.com/in/ronaldosaheki/
+      github: https://github.com/ronaldosaheki
+      email: rsaheki@gmail.com
       reddit: https://www.reddit.com/r/kubernetes/
