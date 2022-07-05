@@ -5,7 +5,7 @@ theme: "#CF508A"
 backgroundColor: "#FAF5EF"
 # This folder is where all the files related to the blog would live
 bannerImage: /BANNER-SIZE-AI-and-Machine-Learning.jpeg
-logoImage: ./logo.png
+logoImage: ./rs-logo.png
 navLinks:
   - title: Docs
     url: https://docs.truegit.io
@@ -22,7 +22,7 @@ authors:
     title: Principal Engineer @OutSystems
     description: Enjoys coding and coding only
     url: https://ronaldo.saheki.com
-    profileImage: "./assets/quantdaddy.jpeg"
+    profileImage: "./ronaldo-profilepic.jpeg"
     socials:
       linkedin: https://www.linkedin.com/in/ronaldosaheki/
       github: https://github.com/ronaldosaheki
